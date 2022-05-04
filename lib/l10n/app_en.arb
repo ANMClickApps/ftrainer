@@ -1,0 +1,116 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "mainText": "Essentially, beginner gym training is all about hitting all the big muscle groups at the same time to build strength and strengthen the skeleton.",
+    "@mainText":{
+      "description": "The main text"
+    },
+    "helloWorld": "Hello World!",
+    "@helloWorld": {
+      "description": "A programmer greeting"
+    },
+    "langSettingTitle": "Languages",
+    "@langSettingTitle": {
+      "description": "A program settings item"
+    },
+    "langSettingSubTitle": "Pick on the Flag icon",
+    "@langSettingSubTitle": {
+      "description": "A program settings item subtitle"
+    },
+    "homeTab": "Home",
+    "@homeTab": {
+      "description": "The home tab"
+    },
+    "resultTab": "Result",
+    "@resultTab": {
+      "description": "The home result"
+    },
+    "settingsTab": "Settings",
+    "@settingsTab": {
+      "description": "The home settings"
+    },
+    "cardHomeCat": "to mass",
+    "@cardHomeCat": {
+      "description": "The card category title"
+    },
+    "cardHomeTitle": "Workouts for beginners",
+    "@cardHomeTitle": {
+      "description": "The card title"
+    },
+    "cardHomeSubTitle": "The program requires a high level of endurance and training experience in the gym.",
+    "@cardHomeSubTitle": {
+      "description": "The card subtitle"
+    },
+    "cardHomeCount": "3 times a week",
+    "@cardHomeCount": {
+      "description": "The card count"
+    },
+    "day": "Day",
+    "@day": {
+      "description": "Count of day"
+    },
+    "dayOne": "The first day of the training program is the most difficult. It involves working on the two largest muscle groups of the body - the chest and legs. Note that if you can go to the gym 4 times a week, it is better to allocate a separate ",
+    "@dayOne": {
+      "description": "Count of day"
+    },
+    "dayOne2": "leg workouts.",
+    "@dayOne2": {
+      "description": "Count of day"
+    },
+    "daySecond": "The second day of the training program focuses on the upper half of the body. The goal is to work out the muscles that give the figure massiveness. Round and voluminous shoulders will make the figure wider, and large triceps will increase the volume of the arms, visually expanding the biceps.",
+    "@daySecond": {
+      "description": "Count of day"
+    },
+    "dayThree": "The final day of training is based on working out the back and press. Pulldowns and pull-ups develop the latissimus dorsi muscles, while dumbbell rows and rows to the belt while sitting give it thickness. Optionally, the training program may include deadlift.",
+    "@dayThree": {
+      "description": "Count of day"
+    },
+    "exerciseFor": "Exercises for ",
+    "@exerciseFor": {
+      "description": "exersiceFor"
+    },
+    "exercise": "Exercise",
+    "@exerciseFor": {
+      "description": "exersice"
+    },
+    "recommendations": "Recommendations",
+    "@recommendations": {
+      "description": "exersice"
+    },
+    "start": "Start",
+    "@start": {
+      "description": "start"
+    },
+    "sets": "sets/repetitions",
+    "@sets": {
+      "description": "sets/repetitions"
+    },
+    "setsStart": "Sets:",
+    "@setsStart": {
+      "description": "sets/repetitions"
+    },
+    "repetitionsStart": "Repetitions:",
+    "@repetitionsStart": {
+      "description": "sets/repetitions"
+    },
+    "countOfrepetitions": "Count of repetitions",
+    "@countOfrepetitions": {
+      "description": "sets/repetitions"
+    },
+    "addButton": "Add",
+    "@addButton": {
+      "description": "Add button"
+    },
+    "doneButton": "Done",
+    "@doneButton": {
+      "description": "Done button"
+    },
+    "exerciseName": "Exercise name",
+    "@exerciseName": {
+      "description": "Done button"
+    }
+    
+   
+}
